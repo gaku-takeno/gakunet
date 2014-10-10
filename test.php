@@ -1,4 +1,4 @@
 <?php
-echo "version1.0";
+echo "version1.1";
 echo "merged!";
 ?>
